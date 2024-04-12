@@ -1,0 +1,16 @@
+.text_craft {
+    width: 10%;
+    height: auto;
+    -unity-text-align: middle-center;
+    flex-shrink: 1;
+    color: rgb(255, 255, 255);
+}
+
+.text {
+    width: 25%;
+    flex-direction: row;
+    height: auto;
+    flex-shrink: 1;
+    flex-grow: 1;
+    color: rgb(255, 255, 255);
+}
